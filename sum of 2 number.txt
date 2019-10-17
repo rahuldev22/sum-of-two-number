@@ -1,6 +1,4 @@
-
-// Java program to illustrate the 
-// Java.lang.Integer.sum() method 
+// sum of 2 number using pre-definedd method
 import java.lang.*; 
   
 public class Geeks { 
